@@ -1,12 +1,4 @@
-// ==UserScript==
-// @name         Бинды для модеров
-// @namespace    http://tampermonkey.net/
-// @version      2.10
-// @description  Добавляет кнопку рядом со временем в сообщениях и открывает модальное окно со спойлерами и формами с возможностью редактирования, перемещения, добавления новых спойлеров и удаления кнопок/спойлеров, с сохранением настроек в localStorage
-// @author       You
-// @match        https://game.league17.ru/*
-// @grant        none
-// ==/UserScript==
+
 
 (function() {
     'use strict';
